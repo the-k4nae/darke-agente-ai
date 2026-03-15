@@ -1,0 +1,6 @@
+# Dependências do Darke Store Bot
+# Versões mínimas testadas — atualize com cuidado
+discord.py>=2.3.2,<3.0.0
+python-dotenv>=1.0.0,<2.0.0
+groq>=0.11.0,<2.0.0
+aiohttp>=3.9.0,<4.0.0
